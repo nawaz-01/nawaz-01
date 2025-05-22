@@ -63,7 +63,7 @@
 🌐 **[Web Dev Journey](https://github.com/asif-nawaz01)** – Hands-on projects with HTML, CSS, and JS  
 🏗 **[Java Projects](https://github.com/asif-nawaz01)** – Real-world applications built in Java  
 
-💡 Explore more on my **[GitHub Repositories](https://github.com/asif-nawaz017)**  
+💡 Explore more on my **[GitHub Repositories](https://github.com/asif-nawaz01)**  
 
 ---
 
