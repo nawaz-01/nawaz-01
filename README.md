@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 **About Me**  
+## 🚀 ***About Me*** 
 
 🔹 **Hello there!** I’m **Asif Nawaz**, a **Computer Science Engineering (CSE) student** at **UCET Hazaribagh** with an insatiable curiosity for **technology, coding, and problem-solving**.  
 🔹 I am on a mission to **transform ideas into reality through code** while constantly evolving as a **developer and innovator**.  
