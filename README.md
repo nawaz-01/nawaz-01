@@ -1,5 +1,3 @@
-Here’s a more polished, slightly more visually attractive version of a `README.md` for you, using the same structure and themes as your friend’s — but with enhanced clarity, formatting, and phrasing for better impact:
-
 ```markdown
 <!-- 🚀 Welcome Banner -->
 <p align="center">
@@ -121,10 +119,3 @@ I believe in **building with purpose**, **learning by doing**, and **growing thr
 Let’s connect, collaborate, and bring something impactful to life. 🚀
 ```
 
-### How to Use It
-
-1. Copy and paste the content above into a `README.md` file in your GitHub profile repo (`asif-nawaz01/asif-nawaz01`).
-2. Update any personal project details as you launch new ones.
-3. Add or edit the LinkedIn link if needed (I guessed the pattern — double-check it).
-
-Would you like me to generate a Ghibli-style avatar or GitHub banner image to match the vibe?
