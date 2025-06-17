@@ -23,7 +23,7 @@ Despite being early in my journey, I believe in building things from the ground 
 
 ---
 
-## 📚 My Learning Approach
+## 📚 My Learning Approach:
 
 > I don’t just “complete tutorials” — I learn by **doing, reflecting, and iterating**.
 
