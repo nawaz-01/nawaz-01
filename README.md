@@ -101,15 +101,13 @@ I prefer using a **modern, balanced stack** — one that’s simple, scalable, a
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asif-nawaz01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asif-nawaz01&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-nawaz01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifNawaz-dev&show_icons=true&theme=radical)
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsifNawaz-dev&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifNawaz-dev&layout=compact&theme=radical)
 
 ---
 
