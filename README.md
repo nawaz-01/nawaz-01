@@ -14,7 +14,7 @@ Hey there! I'm **Asif Nawaz**, a Computer Science student at **UCET Hazaribagh**
 I’m passionate about technology and strongly inclined toward **full-stack development**, **app development**, and **cloud computing**.  
 Despite being early in my journey, I believe in building things from the ground up — learning by breaking, fixing, and improving.
 
-### 💡 What Drives Me:
+### 💡 What Drives Me
 
 - 🔍 I believe in **clarity over complexity** — readable, elegant code always wins.
 - 🚀 I learn best when I’m **building real things** — projects drive my understanding deeper than tutorials.
