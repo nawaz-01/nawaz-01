@@ -114,7 +114,7 @@ I prefer using a **modern, balanced stack** — one that’s simple, scalable, a
 
 ---
 
-## 🧭 My 2025–2026 Roadmap
+## 🧭 My 2025–2026 Roadmap🚦
 
 Here’s what I’m focused on achieving this year and next:
 
