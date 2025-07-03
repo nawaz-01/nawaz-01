@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Asif Nawaz**, a Computer Science student at **UCET Hazaribagh**, currently in my first year of B.Tech.  
+Hey there! I'm **Asif Nawaz**, a Computer Science student at **UCET Hazaribagh**, currently in my first year of B.Tech. 
 I’m passionate about technology and strongly inclined toward **full-stack development**, **app development**, and **cloud computing**.  
 Despite being early in my journey, I believe in building things from the ground up — learning by breaking, fixing, and improving.
 
