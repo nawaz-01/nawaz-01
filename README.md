@@ -104,11 +104,11 @@ I prefer using a **modern, balanced stack** — one that’s simple, scalable, a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asif-nawaz01&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asif-nawaz01&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nawaz-01&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nawaz-01&theme=radical&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-nawaz01&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaz-01&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 
@@ -132,7 +132,7 @@ Here’s what I’m focused on achieving this year and next:
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/asif-nawaz01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/nawaz-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/asif-nawaz-4741b6329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
