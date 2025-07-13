@@ -1,7 +1,7 @@
 <!-- 🚀 Animated Intro Banner -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&lines=Hi,+I’m+Asif+Nawaz+👋;CSE+Student+@+UCET+Hazaribagh;B.Tech+in+CSE,+1st+Year;Java+%26+DSA+Enthusiast+💻;Full-Stack+%26+App+Dev+Learner+🌐;Cloud+Computing+Explorer+☁️"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=9ECAD6&center=true&vCenter=true&width=700&lines=Hi,+I’m+Asif+Nawaz+👋;CSE+Student+@+UCET+Hazaribagh;B.Tech+in+CSE,+1st+Year;Java+%26+DSA+Enthusiast+💻;Full-Stack+%26+App+Dev+Learner+🌐;Cloud+Computing+Explorer+☁️"
     alt="Typing SVG"
   />
 </p>
