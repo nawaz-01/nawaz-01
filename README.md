@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nawaz-01&label=Profile+Views&color=blueviolet&style=flat" alt="nawaz-01" />
+  <img src="https://komarev.com/ghpvc/?username=nawaz-01&label=Visitors&color=238636&style=flat" alt="nawaz-01" />
 </p>
 
 ---
@@ -134,11 +134,11 @@ Currently navigating my **first year of B.Tech**, I'm driven by curiosity, creat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawaz-01&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nawaz-01&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nawaz-01&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nawaz-01&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaz-01&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaz-01&layout=compact&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawaz-01&theme=react-dark" width="100%"/>
