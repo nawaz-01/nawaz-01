@@ -1,107 +1,137 @@
 <!-- 🚀 Animated Intro Banner -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=F79B72&center=true&vCenter=true&width=700&lines=Hi,+I’m+Asif+Nawaz+👋;CSE+Student+@+UCET+Hazaribagh;B.Tech+in+CSE,+1st+Year;Java+%26+DSA+Enthusiast+💻;Full-Stack+%26+App+Dev+Learner+🌐;Cloud+Computing+Explorer+☁️"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=F79B72&center=true&vCenter=true&width=800&lines=Hi,+I’m+Asif+Nawaz+👋;CSE+Student+@+UCET+Hazaribagh;B.Tech+in+CSE,+1st+Year;Java+%26+DSA+Enthusiast+💻;Full-Stack+%26+App+Dev+Learner+🌐;Cloud+Computing+Explorer+☁️"
     alt="Typing SVG"
   />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nawaz-01&label=Profile+Views&color=blueviolet&style=flat" alt="nawaz-01" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Asif Nawaz**, a Computer Science student at **UCET Hazaribagh**, currently in my first year of B.Tech. 
-I’m passionate about technology and strongly inclined toward **full-stack development**, **app development**, and **cloud computing**.  
-Despite being early in my journey, I believe in building things from the ground up — learning by breaking, fixing, and improving.
+Hi there! I'm **Asif Nawaz**, a passionate Computer Science student at **UCET Hazaribagh**.  
+Currently navigating my **first year of B.Tech**, I'm driven by curiosity, creativity, and consistency.  
 
-### 💡 What Drives Me
-
-- 🔍 I believe in **clarity over complexity** — readable, elegant code always wins.
-- 🚀 I learn best when I’m **building real things** — projects drive my understanding deeper than tutorials.
-- ⚡ I thrive in fast-paced environments like **hackathons**, where speed, collaboration, and problem-solving shine.
-- ⏰ I live by the mantra **“Discipline beats motivation”** — I show up daily, no matter how small the step.
+💻 I'm learning by **building**, **breaking**, and **rebuilding** — because that's how real growth happens.
 
 ---
 
-## 📚 My Learning Approach:
+### 💡 Philosophy & Values
 
-> I don’t just “complete tutorials” — I learn by **doing, reflecting, and iterating**.
-
-Here’s how my journey unfolds:
-
-- ✅ **Mastered the Fundamentals**  
-  I've built a strong foundation in **Core Java**, **Object-Oriented Programming (OOP)**, and **Data Structures & Algorithms (DSA)** through consistent practice on **GeeksforGeeks**.
-
-- 📘 **Intermediate Skill-Building**  
-  I’m confident in **JavaScript**, especially DOM manipulation, ES6+ features, and asynchronous workflows (Promises, async/await, etc.).
-
-- 🔧 **Real-World Backend Development**  
-  I’ve developed secure backend services using **Node.js**, **Express.js**, **JWT for authentication**, and **MongoDB** for storage. These projects helped me understand middleware, route protection, and folder structuring.
-
-- ⚛️ **Advancing into Frontend Frameworks**  
-  I’m currently diving deep into **React.js**, learning about component architecture, state management, and soon transitioning to **Next.js** for server-side rendering and better performance.
+- 🔍 **Clarity over complexity** — Clean, readable code wins.
+- 🚀 **Build > Consume** — Learning through projects and problem-solving.
+- ⚔️ **Hackathon-ready** — I enjoy fast-paced, high-impact tech environments.
+- ⏰ **Discipline over motivation** — Consistency beats hype.
 
 ---
 
-## 💻 Tech Stack I Use & Why
+## 📚 Learning Journey
 
-I prefer using a **modern, balanced stack** — one that’s simple, scalable, and great for learning.
+> I don’t just “complete tutorials.” I build, reflect, and iterate. Here's what I'm mastering:
 
-- **Frontend**:  
-  - HTML, CSS, JavaScript — the web’s backbone  
-  - React.js — powerful for building modular UIs  
-  - Next.js (in progress) — for better SEO and performance
+### ✅ Mastered the Fundamentals
+- Core Java, OOP, DSA (via GeeksforGeeks)
+- Time & space complexities, sorting/searching, recursion
 
-- **Programming Languages**:  
-  - Java — my go-to for understanding core CS concepts and DSA  
-  - JavaScript — for dynamic, full-stack web development
+### 🔧 Intermediate Development
+- DOM manipulation, ES6+, async JS (Promises & `async/await`)
+- Git & GitHub workflow, branching, PRs, issue tracking
 
-- **Backend**:  
-  - Node.js + Express.js — fast, flexible, and efficient  
-  - JWT + Bcrypt — for authentication and secure password handling
+### 💡 Backend Experience
+- Node.js + Express.js for REST APIs  
+- JWT Auth, bcrypt for hashing, route protection  
+- MongoDB & Mongoose for schema design and CRUD ops
 
-- **Database**:  
-  - MongoDB — NoSQL, scalable, and works seamlessly with my Node backend  
-  - Mongoose — for schema modeling and validation
-
-- **Testing & Tools**:  
-  - Postman / Thunder Client — API testing and debugging  
-  - MongoDB Compass — visual interface for managing DBs
-
-- **Dev Environment**:  
-  - Git & GitHub — for version control and collaboration  
-  - Notion — for documenting, planning, and staying organized  
-  - VS Code — my customizable, productivity-boosting editor
+### ⚛️ Frontend Mastery (in progress)
+- React.js: Hooks, props, state, and component design  
+- Next.js: SSR, routing, and performance optimization (coming up next)
 
 ---
 
-## 🧩 Projects That Shaped Me
+## 💻 Tech Stack & Tools
 
-> Every project = a new set of lessons, tools, and breakthroughs.
+| Domain            | Technologies                                           |
+|------------------|--------------------------------------------------------|
+| **Frontend**      | HTML, CSS, JavaScript, React.js, Tailwind CSS         |
+| **Backend**       | Node.js, Express.js, REST APIs, JWT, Bcrypt           |
+| **Database**      | MongoDB, Mongoose                                     |
+| **Languages**     | Java (Core + OOP + DSA), JavaScript                   |
+| **Tools**         | Git, GitHub, VS Code, Postman, MongoDB Compass        |
+| **Planning**      | Notion (docs, project plans), Figma (UI sketching)    |
+
+---
+
+## 🔨 Featured Projects
+
+> Every project is a milestone in learning — some public, some private.
 
 - **🌐 Web Dev Lab**  
-  A growing repository of responsive layouts, animations, and UI components.  
-  *Learned:* Media queries, Flexbox/Grid layouts, and frontend polish.
+  Responsive UI components & layouts.  
+  *Focus:* CSS Flex/Grid, animations, responsiveness.
 
 - **♨️ Java Practice Series**  
-  A set of Java-based mini-projects and algorithms focused on reinforcing OOP and logic building.  
-  *Learned:* Class design, error handling, and object interaction.
+  Hands-on with Java mini-projects and OOP design.  
+  *Focus:* Logic building, abstraction, error handling.
 
 - **🧠 DSA Tracker (GFG)**  
-  A personal GitHub log of DSA problems solved from GeeksforGeeks.  
-  *Learned:* Pattern recognition, debugging skills, and algorithmic thinking.
+  My problem-solving archive.  
+  *Focus:* Arrays, strings, stacks, recursion & patterns.
 
 - **🔐 Secure REST API (Private)**  
-  A complete backend system with user authentication and protected routes.  
-  *Learned:* JWT token management, middleware, secure coding practices.
+  Backend APIs with JWT-auth and validations.  
+  *Focus:* Secure login flows, token management.
 
 - **🧪 API Playground (Coming Soon)**  
-  A full-stack API-driven application with proper documentation and testing.  
-  *Goal:* Showcase a clean, modular, and testable backend setup.
+  A modular full-stack API-driven application with clean docs and testing.
 
 ---
 
-## 📈 GitHub Stats
+## 🧭 My Roadmap for 2025–2026 🚦
+
+- ✅ Master DSA patterns and Java  
+- 🔐 Secure & deploy production-ready backend services  
+- ⚛️ Build & deploy React-based apps (Next.js transition ahead)  
+- 🏆 Participate in hackathons & build projects under pressure  
+- 📈 Contribute to Open Source (Hacktoberfest, etc.)  
+- 💼 Land a remote internship for hands-on experience  
+- 🧠 Build and grow a strong portfolio + personal brand
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🎯 Completed multiple 100+ day DSA challenges (GFG)  
+- 📘 Completed JavaScript full course + hands-on projects  
+- 🛠️ Built and tested multiple backend services using Node.js  
+- 🥇 Consistently contributing to GitHub and expanding project repo
+
+---
+
+## 🎓 Certifications *(Optional - Add if you have)*
+
+| Certification | Platform | Year |
+|---------------|----------|------|
+| JavaScript Mastery | Udemy / Coursera | 2025 |
+| Backend with Node.js | Udemy / LinkedIn Learning | 2025 |
+| DSA Workshop | GeeksforGeeks | 2024 |
+
+---
+
+## 🎯 Fun Facts
+
+- I debug better with lo-fi music 🎧  
+- I broke my first website with one missing `</div>` 😅  
+- I believe coffee = fuel for devs ☕  
+- I refactor code like cleaning my room — it *has to be clean* 😎  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nawaz-01&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -110,26 +140,13 @@ I prefer using a **modern, balanced stack** — one that’s simple, scalable, a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaz-01&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
-
-
----
-
-## 🧭 My 2025–2026 Roadmap🚦
-
-Here’s what I’m focused on achieving this year and next:
-
-- ✔️ Strengthen my core in Java, DSA, and Object-Oriented Programming  
-- 🔐 Build and deploy secure backend APIs with authentication  
-- ⚛️ Build and ship frontend apps using React and transition into Next.js  
-- 🚀 Work on real-world full-stack projects and deploy them  
-- 🏁 Participate in hackathons to solve practical problems  
-- 💼 Land a remote internship and gain real-world experience  
-- 🌍 Contribute to open-source repositories  
-- 🧑‍💻 Continue to grow my personal brand and portfolio  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawaz-01&theme=react-dark" width="100%"/>
+</p>
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/nawaz-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -140,7 +157,9 @@ Here’s what I’m focused on achieving this year and next:
 
 ## 💬 Final Thoughts
 
-Thanks a lot for visiting my profile!  
-I’m someone who’s deeply passionate about **tech that solves real problems**, and I’m just getting started.
+Thanks for stopping by!  
+If you're passionate about tech, solving problems, and growing together — feel free to **connect, collaborate, or just say hi**. 🚀  
+Let’s build the future, one line of code at a time.
 
-If you’re someone who loves **building cool things**, sharing knowledge, or collaborating on exciting projects — **let’s connect**. 🚀
+---
+
