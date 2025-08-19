@@ -108,10 +108,11 @@ Currently navigating my **first year of B.Tech**, I'm driven by curiosity, creat
 
 ---
 
-## 🎓 Certifications *(Optional - Add if you have)*
+## 🎓 Certifications
 
 | Certification | Platform | Year |
 |---------------|----------|------|
+| Internship | CodeSoft | 2025 |
 | JavaScript Mastery | Udemy / Coursera | 2025 |
 | Backend with Node.js | Udemy / LinkedIn Learning | 2025 |
 | DSA Workshop | GeeksforGeeks | 2024 |
