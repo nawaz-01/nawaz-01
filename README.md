@@ -26,7 +26,7 @@ Currently navigating my **first year of B.Tech**, I'm driven by curiosity, creat
 
 ---
 
-## 📚 Learning Journey
+## 📚 Learning Journey--
 
 > I don’t just “complete tutorials.” I build, reflect, and iterate. Here's what I'm mastering:
 
