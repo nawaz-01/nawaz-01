@@ -152,7 +152,7 @@ Currently navigating my **first year of B.Tech**, I'm driven by curiosity, creat
 
 ---
 
-## 💬 Final Thoughts
+## 💬 Final Thoughts:
 
 Thanks for stopping by!  
 If you're passionate about tech, solving problems, and growing together — feel free to **connect, collaborate, or just say hi**. 🚀  
