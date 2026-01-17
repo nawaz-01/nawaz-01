@@ -49,7 +49,7 @@ Currently navigating my **first year of B.Tech**, I'm driven by curiosity, creat
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack & Tools:
 
 | Domain            | Technologies                                           |
 |------------------|--------------------------------------------------------|
