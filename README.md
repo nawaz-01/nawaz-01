@@ -8,7 +8,7 @@
 
 --- 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:-
 
 Hi there! I'm **Asif Nawaz**, a passionate Computer Science student at **UCET Hazaribagh**.  
 Currently navigating my **first year of B.Tech**, I'm driven by curiosity, creativity, and consistency.  
